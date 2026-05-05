@@ -13,9 +13,13 @@
 - Copy the client id and secret from the 'Basic information' tab into the .env file
 
 <h2>To open the duckdb shell:</h2>
-- duckdb data/spotify.duckdb
 
-<br>
+```
+  duckdb data/spotify.duckdb
+```
 
 <h2>To install requirements.txt libraries:</h2>
-- pip install -r requirements.txt 
+
+```
+  pip install -r requirements.txt 
+```
