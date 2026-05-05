@@ -23,3 +23,9 @@
 ```
   pip install -r requirements.txt 
 ```
+
+<h2>To run the Streamlit dashboard</h2>
+
+```
+  streamlit run dashboard/app.py
+```
