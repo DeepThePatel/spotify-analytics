@@ -8,7 +8,7 @@ from datetime import datetime
 
 load_dotenv()
 
-# 1. Auth — you'll get these from developer.spotify.com (free)
+# 1. Authentication
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     client_id=os.getenv("SPOTIPY_CLIENT_ID"),
     client_secret=os.getenv("SPOTIPY_CLIENT_SECRET"),
