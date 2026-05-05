@@ -1,0 +1,4 @@
+.env
+.cache
+data/spotify.duckdb
+__pycache__/

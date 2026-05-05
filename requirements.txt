@@ -1,0 +1,8 @@
+spotipy
+duckdb
+dbt-duckdb
+streamlit
+pandas
+plotly
+python-dotenv
+duckdb-cli
