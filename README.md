@@ -1,3 +1,9 @@
+A vibe-coded Spotify analytics application using Claude. This app will:
+1. Ask you to login to your Spotify account
+2. Take your top 50 songs
+3. Put them in a database
+4. Provide you with a Streamlit analytics dashboard based on your top 50 songs
+
 <h2>To add your own Spotify Credentials:</h2>
   
 - Clone the repo locally using this command: *git clone https://github.com/DeepThePatel/spotify-analytics.git*
